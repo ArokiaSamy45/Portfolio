@@ -1,0 +1,26 @@
+.project {
+    background-color: white;
+    padding: 15rem 0;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    
+  }
+
+  .project_name {
+    width: 45rem;
+    height: 45rem;
+    border-radius: 1.7rem;
+  }
+  @media (max-width: 1020px) {
+    .project_name {
+      margin-bottom: 3.5rem;
+    }
+  }
+  @media (max-width: 460px) {
+    .project_name {
+      width: 90%;
+      height: auto;
+    }
+  }

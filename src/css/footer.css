@@ -1,0 +1,36 @@
+footer {
+    background-color: #8e8e8e;
+    padding: 5rem 0;
+    width: 100%;
+  }
+  footer h3 {
+    font-size: 1.7rem;
+    color: white;
+  }
+  
+   .footerc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  @media (max-width: 550px) {
+    .footerc {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2rem;
+      text-align: center;
+    }
+  }
+  .footerc__socials {
+    display: flex;
+    gap: 2rem;
+  }
+  .footerc__socials i {
+    font-size: 2.3rem;
+    color: white;
+  }
+  .footerc__socials i:hover {
+    transform: scale(1.2);
+    transition: all 0.2s ease-in-out;
+  }
+  
