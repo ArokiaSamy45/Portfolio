@@ -59,6 +59,7 @@ export function Home() {
                       </div>
                       </div>
           </div>
+          {/* <canvas style="position: absolute;left:0;z-index: -1;" id="canvas" width="238" height="750"></canvas> */}
         </div>
        
       </section>

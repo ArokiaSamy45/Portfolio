@@ -1,6 +1,6 @@
 
 
-import domain_picture from '../images/1682142689090.png'
+import domain_picture from '../images/0I5A5343 - Copy.JPG'
 import '../css/about.css';
 
 export function AboutMe() {
@@ -19,7 +19,7 @@ export function AboutMe() {
                 A dedicated MERN Full-Stack Web Developer based in Puducherry, TamilNadu📍
               </h3>
               <p>
-              I'm a MERN full-stack web developer. I have a degree in Civil Engineering, but I'm passionate about building web applications using React, Node.js, and MongoDB. I've worked on several personal projects, including a real-time chat application and a social media platform, which have helped me hone my technical skills and problem-solving abilities.
+              I'm a MERN full-stack web developer. I have a degree in Civil Engineering, but I'm passionate about building web applications using React, Node.js, and MongoDB. 
 
 I'm fascinated by the way technology is transforming the world and I'm eager to learn new technologies and techniques to stay ahead of the curve. In my free time, I enjoy reading about the latest trends in software development and exploring new coding challenges.
 
