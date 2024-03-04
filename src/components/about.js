@@ -25,7 +25,7 @@ I'm fascinated by the way technology is transforming the world and I'm eager to 
 
 My goal is to work with a team of talented developers on projects that make a positive impact on society. I'm excited to continue my journey as a MERN full-stack developer and look forward to the opportunities that lie ahead."
               </p>
-              <a href="https://drive.google.com/file/d/1IGQgM45EL6UwqGJ59Um_WreGh4f74Sxo/view?usp=sharing" target="_blank" rel="noreferrer" className="button button--flex">
+              <a href="https://drive.google.com/file/d/1n-tc6Inwda2SD2kLHWQuHxOrVbaFuAcJ/view?usp=drive_link" target="_blank" rel="noreferrer" className="button button--flex">
                 View CV
               </a>
             </div>
