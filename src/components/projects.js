@@ -11,6 +11,7 @@ export function Project() {
           <span class="section__subtitle">Most recent work</span>
 
           <div class="portfolio__container container_P grid">
+            {/* ------------------------------------------------------------------------------------------- */}
             <div class="portfolio__content">
               <div>
                 {/* <!-- <i class="uil uil-brackets-curly portfolio__icon"></i> --> */}
@@ -59,6 +60,7 @@ export function Project() {
                 </span>
               </a>
             </div>
+{/* ------------------------------------------------------------------------------------------- */}
             <div class="portfolio__content">
               <div>
                 {/* <!-- <i class="uil uil-brackets-curly portfolio__icon"></i> --> */}
@@ -101,6 +103,55 @@ export function Project() {
               <br />
 
               <a href="https://seaview-bistro.netlify.app/home" target="_blank">
+                <span class="button button--flex button--small portfolio__button">
+                  Deployed url
+                  <i class="uil uil-arrow-right button__icon"></i>{" "}
+                </span>
+              </a>
+            </div>
+            {/* ------------------------------------------------------------------------------------------- */}
+            <div class="portfolio__content">
+              <div>
+                {/* <!-- <i class="uil uil-brackets-curly portfolio__icon"></i> --> */}
+                <h3 class="portfolio__title">StackOverFlow Clone</h3>
+                <p class="portfolio__discription">
+                  <b>Front-end:</b>
+                  <br />
+                  React, HTML/CSS <br />
+                  <b>Back-end:</b>
+                  <br />
+                  Node.js, Express
+                  <br />
+                  <b>Database:</b><br />
+                MongoDB
+                </p>
+              </div>
+
+              <a
+                href="https://github.com/ArokiaSamy45/Stackoverflow_clone/tree/main/frontend"
+                target="_blank"
+              >
+                <span class="button button--flex button--small button--link portfolio__button">
+                  Source-Frontend
+                  <i class="uil uil-arrow-right button__icon"></i>{" "}
+                </span>
+              </a>
+              <br />
+              <br />
+
+              <a
+                href="https://github.com/ArokiaSamy45/Stackoverflow_clone/tree/main/backend"
+                target="_blank"
+              >
+                <span class="button button--flex button--small button--link portfolio__button">
+                  Source-Backend
+                  <i class="uil uil-arrow-right button__icon"></i>{" "}
+                </span>
+              </a>
+              <br />
+              <br />
+
+              <a href="https://stackoverflow-clone-uqg7.onrender.com/auth" target="_blank">
                 <span class="button button--flex button--small portfolio__button">
                   Deployed url
                   <i class="uil uil-arrow-right button__icon"></i>{" "}
