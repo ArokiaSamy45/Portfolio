@@ -121,7 +121,7 @@
     }
  
     .portfolio__container {
-    grid-template-columns: repeat(2, 218px);
+    grid-template-columns: repeat(4, 218px);
     justify-content: center;
   }
   .portfolio__content {
@@ -133,6 +133,6 @@
 }
   @media screen and (min-width: 1024px) {
   .portfolio__container {
-    grid-template-columns: repeat(2, 238px);
+    grid-template-columns: repeat(4, 238px);
   }
 }
